@@ -2,7 +2,7 @@
 
 [![Travis CI](https://img.shields.io/travis/cbas/json-api.svg)](https://travis-ci.org/cbas/json-api)
 
-## Specification
+## Specification details
 
 - Server
 
